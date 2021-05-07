@@ -248,7 +248,7 @@ h2.slogan{
 .box_timeline ul li{
 	float:left;
 	width: 170px;
-	margin: 0 0 0 30px;
+	margin: 0 0 0 90px;
 	background: url(../images/bg_ul.gif) repeat-x 0 76px;
 }
 .box_timeline ul li:first-child{margin: 0;}
@@ -327,21 +327,22 @@ h2.slogan{
 	font-size: 18px;
 	padding: 0 0 0 20px;
 }
-.progress li span.photoshop{width: 100%;}
-.progress li span.illustrator{width: 70%;}
-.progress li span.indesign{width: 40%;}
-.progress li span.flash{width: 80%;}
-.progress li span.html{width: 75%;}
-.progress li span.wordpress{width: 85%;}
-.progress li span.jquery{width: 70%;}
-.progress li span.seo{width: 40%;}
+.progress li span.photoshop{width: 90%;}
+.progress li span.xd{width: 70%;}
+.progress li span.postman{width: 50%;}
+.progress li span.firebase{width: 80%;}
+.progress li span.flutter{width: 85%;}
+.progress li span.angular{width: 85%;}
+.progress li span.csharp{width: 75%;}
+.progress li span.netcore{width: 75%;}
+.progress li span.js{width: 85%;}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
 	margin: 0 0 65px;
 }
 .plagin_list li{
-	float:left;
+	float: left;
 	margin: 0 0 0 25px;
 	border-radius: 50%;
 	behavior: url(css/PIE.htc);
@@ -361,13 +362,13 @@ h2.slogan{
 	position: relative;
 }
 .plagin_list li.li_1 a{background: url(../images/icon_ps.png) no-repeat 50% 50% ;}
-.plagin_list li.li_2 a{background: url(../images/icon_ai.png) no-repeat 50% 50% ;}
-.plagin_list li.li_3 a{background: url(../images/icon_ld.png) no-repeat 50% 50% ;}
-.plagin_list li.li_4 a{background: url(../images/icon_fl.png) no-repeat 50% 50% ;}
-.plagin_list li.li_5 a{background: url(../images/icon_html.png) no-repeat 50% 50% ;}
-.plagin_list li.li_6 a{background: url(../images/icon_wp.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
-.plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
+.plagin_list li.li_2 a{background: url(../images/icon_fbase.png) no-repeat 50% 50% ;}
+.plagin_list li.li_3 a{background: url(../images/icon_xd.png) no-repeat 50% 50% ;}
+.plagin_list li.li_4 a{background: url(../images/icon_postm.png) no-repeat 50% 50% ;}
+.plagin_list li.li_5 a{background: url(../images/icon_flutt.png) no-repeat 50% 50% ;}
+.plagin_list li.li_6 a{background: url(../images/icon_ang.png) no-repeat 50% 50% ;}
+.plagin_list li.li_7 a{background: url(../images/icon_js.png) no-repeat 50% 50% ;}
+.plagin_list li.li_8 a{background: url(../images/icon_asp.png) no-repeat 50% 50% ;}
 .wrapper-holder.grey p{padding: 0 0 25px;}
 .plagin_list.none{display: none;}
 
@@ -570,7 +571,8 @@ transition: all 0.5s ease-in-out;
 .footer-content .social li.facebook a{background: url(../images/icon_fb.png) no-repeat 50% 50%;}
 .footer-content .social li.google a{background: url(../images/icon_gl.png) no-repeat 50% 50% ;}
 .footer-content .social li.twitter a{background: url(../images/icon_tw.png) no-repeat 50% 50% ;}
-.footer-content .social li.pinterest a{background: url(../images/icon_pn.png) no-repeat 50% 50%;}
+.footer-content .social li.linkedin a{background: url(../images/icon_in.png) no-repeat 50% 50%;}
+.footer-content .social li.instagram a{background: url(../images/icon_insta.png) no-repeat 50% 50%;}
 .footer-content p{
 	font:18px/20px Arial, Helvetica, sans-serif;
 	display: block;
